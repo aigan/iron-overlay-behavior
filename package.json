@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/PolymerElements/iron-overlay-behavior.git"
   },
-  "name": "@polymer/iron-overlay-behavior",
+  "name": "@aigan/iron-overlay-behavior",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@polymer/gen-typescript-declarations": "^1.5.1",
